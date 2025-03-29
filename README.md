@@ -2,7 +2,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Languages and tools
+## 🛠️ Languages and tools
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=java,postgres,git,vscode=10"  />
 </p>
