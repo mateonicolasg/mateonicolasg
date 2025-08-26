@@ -20,7 +20,7 @@
 ## <picture><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 30px></picture> Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateonicolasg&show_icons=true&theme=blueberry&locale=en" alt="mateonicolasg stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateonicolasg&show_icons=true&theme=blueberry&locale=en&layout=compact" alt="mateonicolasg top langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mateonicolasg&show_icons=true" alt="mateonicolasg stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateonicolasg&show_icons=true" alt="mateonicolasg top langs" height="180"/>
 </p>
 
