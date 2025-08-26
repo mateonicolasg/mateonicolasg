@@ -5,9 +5,12 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
 <br><br>
+
+
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Software Engineering`.
 - 📝 I’m currently open for a new `job opportunity`, this is [MY CV](https://1drv.ms/b/c/2492a59573728fde/EYeEq_eYfixNugzPRPXzl-UBrgdQzOtjpd7Caloend5SDQ?e=GqwV9K).
+
 
 <br>
 
