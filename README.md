@@ -2,13 +2,17 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<div>
+<picture>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+</picture>
 
-<br><br>
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Software Engineering`.
 - 📝 I’m currently open for a new `job opportunity`, this is [MY CV](https://1drv.ms/b/c/2492a59573728fde/EYeEq_eYfixNugzPRPXzl-UBrgdQzOtjpd7Caloend5SDQ?e=GqwV9K).
-<br><br>
+</div>
+
+<br clear="right"/>
 
 ## <picture><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px></picture> Languages and tools
 <p align="center">
