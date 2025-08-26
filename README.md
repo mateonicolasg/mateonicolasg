@@ -16,7 +16,7 @@
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
 
-## 🛠️ Languages and tools
+## <picture><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px></picture> Languages and tools
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=java,postgres,git,vscode=10"  />
+<img width="400px"  src="https://skillicons.dev/icons?i=java,postgres,git,vscode,sqlserver,c++"  />
 </p>
