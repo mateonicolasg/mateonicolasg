@@ -14,7 +14,7 @@
 
 ## <picture><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px></picture> Languages and tools
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=java,cpp,git,vscode,visualstudio,idea,postgres,css,html,mysql,unity"  />
+<img width="800px"  src="https://skillicons.dev/icons?i=css,html,java,cpp,vscode,visualstudio,idea,unity,git,postgres,mysql"  />
 </p>
 
 ## <picture><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 30px></picture> Statistics
